@@ -5,4 +5,4 @@ Pink
 Orange
 Blue
 Red
-These are the colots of the rainbow.
+These are the colors of the rainbow.
